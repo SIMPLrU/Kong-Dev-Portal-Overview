@@ -25,7 +25,7 @@
 		</organization>
 	</organizations>
 	<resources>
-		<resource identifier="SCO_ID1_RES" type="webcontent" href="multiscreen.html" adlcp:scormtype="sco">
+		<resource identifier="SCO_ID1_RES" type="webcontent" href="index_scorm.html" adlcp:scormtype="sco">
 			
 			<metadata>
 				<schema>ADL SCORM</schema>
@@ -33,16 +33,11 @@
 				<adlcp:location>metadata.xml</adlcp:location> 
 			</metadata>
 			
-			<file href="Kong Dev Portal - Navigation Overview.swf"/>
-		    <file href="Kong Dev Portal - Navigation Overview.htm"/>
+			<file href="ar/Mouse.mp3"/>
+		    <file href="index_scorm.html"/>
 			<file href="scormdriver.js"/>
 			<file href="browsersniff.js"/>
 			
-<file href="SCORM_utilities.js"/> 
-<file href="Utilities.js"/> 
-<file href="standard.js"/> 
-<file href="captivate.css"/> 
-<file href="ar/Mouse.mp3"/> 
 <file href="assets/.DS_Store"/> 
 <file href="assets/TOC_icons/collapseIcon.png"/> 
 <file href="assets/TOC_icons/expandIcon.png"/> 
@@ -129,11 +124,14 @@
 <file href="assets/playbar/playbarStyle.css"/> 
 <file href="assets/toc/tocIcons/blankBookmark.png"/> 
 <file href="assets/toc/tocIcons/clear.png"/> 
+<file href="assets/toc/tocIcons/collapseIcon.png"/> 
+<file href="assets/toc/tocIcons/expandIcon.png"/> 
 <file href="assets/toc/tocIcons/expander.png"/> 
 <file href="assets/toc/tocIcons/fullBookmark.png"/> 
 <file href="assets/toc/tocIcons/go.png"/> 
 <file href="assets/toc/tocIcons/infoClose.png"/> 
 <file href="assets/toc/tocIcons/moreinfo.png"/> 
+<file href="assets/toc/tocIcons/photo.png"/> 
 <file href="assets/toc/tocIcons/searchBtnNormal.png"/> 
 <file href="assets/toc/tocIcons/searchBtnSelect.png"/> 
 <file href="assets/toc/tocIcons/visited.png"/> 
@@ -155,6 +153,7 @@
 <file href="dr/15906_1279_497.png"/> 
 <file href="dr/16937_1282_756.png"/> 
 <file href="dr/1773Tr55.png"/> 
+<file href="dr/22274_1283_724.png"/> 
 <file href="dr/Failure_Shape_2.png"/> 
 <file href="dr/Failure_Shape_4.png"/> 
 <file href="dr/LM_BUTTON_10.png"/> 
@@ -174,11 +173,20 @@
 <file href="dr/LM_BUTTON_50.png"/> 
 <file href="dr/LM_BUTTON_57.png"/> 
 <file href="dr/LM_BUTTON_6.png"/> 
+<file href="dr/LM_BUTTON_61.png"/> 
+<file href="dr/LM_BUTTON_62.png"/> 
 <file href="dr/LM_BUTTON_8.png"/> 
 <file href="dr/SmartShape_41.png"/> 
 <file href="dr/SmartShape_48.png"/> 
 <file href="dr/SmartShape_55.png"/> 
+<file href="dr/SmartShape_64.png"/> 
+<file href="dr/SmartShape_66.png"/> 
+<file href="dr/SmartShape_71.png"/> 
+<file href="dr/SmartShape_72.png"/> 
+<file href="dr/SmartShape_73.png"/> 
+<file href="dr/SmartShape_74.png"/> 
 <file href="dr/Title_AutoShape_2.png"/> 
+<file href="dr/Title_AutoShape_4.png"/> 
 <file href="dr/background_1.png"/> 
 <file href="dr/background_11.png"/> 
 <file href="dr/background_13.png"/> 
@@ -205,6 +213,12 @@
 <file href="dr/si17219.png"/> 
 <file href="dr/si17230.png"/> 
 <file href="dr/si1786.png"/> 
+<file href="dr/si22323.png"/> 
+<file href="dr/si22334.png"/> 
+<file href="dr/si22378.png"/> 
+<file href="dr/si22449.png"/> 
+<file href="dr/si22460.png"/> 
+<file href="dr/si22536.png"/> 
 <file href="dr/si5446.png"/> 
 <file href="dr/si5457.png"/> 
 <file href="dr/si5472.png"/> 
@@ -239,7 +253,7 @@
 <file href="goodbye.html"/> 
 <file href="index_scorm.html"/> 
 <file href="project.txt"/> 
-<file href="multiscreen.html"/>
+<file href="Utilities.js"/> 
 		</resource>
 	</resources>
 </manifest>

@@ -54,10 +54,10 @@
                 <vcard>
                     BEGIN:VCARD
                     VERSION:2.1
-                    FN: Author
-ORG: Company
-EMAIL;PREF;INTERNET: author@company.com
-URL:  www.company.com
+                    FN: SIMPLrU
+ORG: SIMPLrU
+EMAIL;PREF;INTERNET: viet@simplru.com
+URL:  www.simplru.com
 
                     END:VCARD
                 </vcard>
@@ -122,8 +122,8 @@ END:VCARD
                 <displayStage>
           
                     <desired>
-                        <width>1281</width>
-                        <height>731</height>
+                        <width>1280</width>
+                        <height>720</height>
                         <fullscreen>no</fullscreen>
                     </desired>
                     <required>

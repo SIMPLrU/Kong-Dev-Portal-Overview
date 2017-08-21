@@ -1,18 +1,18 @@
 var CONFIG = {
 				COURSETITLE			: "Captivate E-Learning Course",
-				FILENAME			: "Kong Dev Portal - Navigation Overview.swf",
-				BGCOLOR				: "#ffffff",
-				FPVERSION			: "10",
-				COURSE_WIDTH		: "100%",
-				COURSE_HEIGHT		: "100%",
-				WMODE				: "window",
+				FILENAME			: "index_scorm.html",
+				BGCOLOR				: "#f5f4f1",
+				FPVERSION			: "",
+				COURSE_WIDTH		: "1280",
+				COURSE_HEIGHT		: "720",
+				WMODE				: "",
 				TARGET				: "CaptivateContent",
 				RIGHTCLICKENABLED	: '',
 				SWFOBJ_ID			: 'Captivate',
 				SWFOBJ_NAME			: 'Captivate',
 				REDIRECT_URL		:  "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash",
 				NOSCRIPT_MSG		: "This course requires JavaScript to be enabled in your browser. Please enable JavaScript, then relaunch the course.",
-                SEAMLESS_TABBING    : "false"
+                SEAMLESS_TABBING    : ""
 			},
 	makeCallsToDriver	= false,
 	CaptivateObj;
